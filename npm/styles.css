@@ -1,0 +1,49 @@
+body
+{
+ width:100%;
+ margin:0 auto;
+ padding:0px;
+ background-color:#080954;
+ font-family:helvetica;
+}
+#wrapper
+{
+ text-align:center;
+ margin:0 auto;
+ padding:0px;
+ width:100%;
+}
+input[type="button"]
+{
+ background:none;
+ border:1px solid #F5D0A9;
+ color:#F5D0A9;
+ width:150px;
+ height:35px;
+ border-radius:20px;
+ margin:10px;
+}
+#image_div
+{
+ margin-top:10px;
+}
+img
+{
+ border-radius:1px;
+ padding:5px;
+ width:600px;
+ height: 300px;
+}
+
+.container{
+     display:flex;
+  padding: 5px;
+  margin-left: 180px ;
+}
+
+figcaption{
+text-align: center;
+ padding-top: 10px; 
+ color:ivory;
+padding-bottom: 20px;
+}
